@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StockWatch</string>
+    <string name="stock_symbol">Stock Symbol</string>
+    <string name="symbol">Symbol</string>
+    <string name="companyname">CompanyName</string>
+    <string name="price_change">Price Change</string>
+    <string name="price">Price</string>
+    <string name="todo">TODO</string>
+</resources>

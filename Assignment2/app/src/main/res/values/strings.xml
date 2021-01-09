@@ -1,0 +1,22 @@
+<resources>
+    <string name="file_name">mynotes.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No Notes File Present</string>
+    <string name="saved">Note Saved!</string>
+    <string name="app_name">Assignment2</string>
+    <string name="_2020_Deep_Patel" />
+
+    <string name="multi_notes">Multi_Notes</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="_2020_deep_patel">© 2020, Deep Patel</string>
+    <string name="about_us">About Us</string>
+    <string name="new_note">New Note</string>
+    <string name="save_note">Save Note</string>
+    <string name="textview">Title</string>
+    <string name="textview1">Date</string>
+    <string name="description">Description</string>
+    <string name="title_enter">Enter Title</string>
+    <string name="enter_text">Enter text</string>
+    <string name="enter_description">Enter Description</string>
+
+</resources>
